@@ -1,0 +1,15 @@
+{
+    "game_data":
+    [
+        {
+            "name":"Prototype",
+            "image":"prototype.png",
+            "location": "C:/somewhere"
+        },
+        {
+            "name":"Cuphead",
+            "image":"cuphead.png",
+            "location": "C:/somewhere"
+        }
+    ]
+}
